@@ -7,6 +7,7 @@
     <title>MyMount.id</title>
 </head>
 <body>
+    <h1>WEE</h1>
     <nav>
         <div>
             <img src="{{ asset('assets/MyMount.id.png') }}" alt="Logo">
